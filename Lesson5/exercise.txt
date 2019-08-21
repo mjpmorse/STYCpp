@@ -1,0 +1,5 @@
+(1) The improved code form quiz question 5 is: int result = ((number << 1) + 5) << 1;
+
+(2) The result of: int Result = number << 1 + 5 << 1 will be Number << 7.
+
+(3) Exercise 3 is in ./src/ 

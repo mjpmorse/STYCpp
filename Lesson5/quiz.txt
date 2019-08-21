@@ -1,0 +1,12 @@
+(1) When writting a program to divide numbers it would be better to use the type float since the type int does not return the decimal data.
+
+(2) 32/7 = 4
+
+(3) 32.0/7 =  4 + 4./7  
+
+(4) sizeof() is not a function but rather an operator.
+
+(5) No the expression int result = number << 1 + 5 << 1; will not double a number, add 5 to it, then double it again as addition occur first. A better expression is int result = ((number <<1 ) + 5) << 1
+
+(6) xOR will evalulate to false if both operands evaluate to true. xOR is exclusive-or.
+ 
