@@ -1,3 +1,0 @@
-1) The problem in declaring Int main() is that c++ is case sensitive therefore Int differs from int.
-
-2) Comments can be longer than one line if /* */ are used instead of // to define the comments.

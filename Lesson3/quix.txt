@@ -1,9 +1,0 @@
-(1) A signed bit uses the most significant place of the memory allocated as a sign bit. It can hold positive and negitive numbers. An unsigned bit can only hold positive numbers.
-
-(2) #define is a preprocessor direct replacement used in old code. It is better to use const instead.
-
-(3) It is good practice to initialize a variable so that what ever is stored in the memory location is overwritten.
-
-(4) Queen has a value of 2 since Ace is the first value defined and is given 0 by default.
-
-(5) Integer is a keyword so it can not be used as a variable name.

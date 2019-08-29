@@ -1,7 +1,0 @@
-(1) A reference is a direct alias. You can not assign a constant reference to a non-constant reference as they are different. Alias direct to the same memory object. 
-
-(2) new and delete are not functions, they are operators.
-
-(3) The value contained in a pointer variable is a memory address.
-
-(4) *(pPointer) accesses the data pointed to.

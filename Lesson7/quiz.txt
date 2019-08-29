@@ -1,9 +1,0 @@
-(1) Function parameters are local variables. They are valid only within the function call; the scope is local.
-
-(2) &SomeNumber is passed by reference to Func(). Therefore the scope is extended to the function executing the function Func(). If SomeNumber is modified in Func() it will be change outside of the function as well.
-
-(3) A function that invokes its self is called a recursive function. 
-
-(4) When two functions are defined to have the same name and return type but difference parameters they are called "overflow functions". Overflow functions can be potential very useful.
-
-(5) The stack pointer always points to the top of the stack where new values canplaced. 
