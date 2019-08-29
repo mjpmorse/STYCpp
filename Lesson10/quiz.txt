@@ -1,0 +1,11 @@
+(1) To insure that derived classes have access to the base class members, but that the memvers are not accessible publically use the protected access specifier.
+
+(2) The derived class would be spliced. Essentially, those attributes which belong to the base class will be based, however those attributes which belong to the derived class would not be.
+
+(3) Favor composition. Private inheritance can limit the scalability of the work.
+
+(4) When defining a overloaded method in a derive class, all overloaded methods from the baseclass are hidden. This can be avoided by using the using keyword.
+
+(5) NO, the compilier will use the most stick access. Therefore only Derived can access public members of Base. SubDerive can access nothing of base.
+
+

@@ -1,0 +1,7 @@
+1) An interpreter directly takes the code in text form and executes the commands. It is slower. An compiler takes the code file and coverts it into machine language.
+
+2) A linker takes the different object (machine language) codes produced by the compiler and resolves dependences. 
+
+3) The steps of the normal development cycle are: write the code, colige the code into machine language, link the outputs of the compuler to construct the executable file. 
+
+4) By supporting multi-threading and concurrent execution.

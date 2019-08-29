@@ -1,0 +1,12 @@
+(1) When you create an instance of a class using new, that instance is created on the heap. 
+(X) On the free store
+
+(2) No, the size of id independent of the number of elements in your dynamic array because the sizeof takes the size of the pointer not the size of the data the pointer, which is a memory address.
+
+(3) If all your class memvers are private only you can access them.
+
+(4) Sure, I see no reason one class member can not invoke another.
+
+(5) a constructor is good for properly initalizing variables.
+
+(6) a destructor is good for properly cleaning up when the instance of a class is being removed.

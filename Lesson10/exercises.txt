@@ -1,0 +1,14 @@
+(1) The order of constructers involved in   Platypus from Listing 10.10 is:  Mammal , Bird, Reptile, Platypus
+
+(2) class shape would be a base class
+    class polygon: public shape
+    class triangle: public polygon (Here triangle is ploygon and polygon is a shape)
+
+(3) class D1: private Base
+    class D2: public D1
+
+(4) The nature of inheritance would be the default of public
+(X) class inheritance is PRIVATE by default, struct inheritance is PUBLIC by default
+
+(5) You should not pass the value of Base by value but rather by pointer:
+	void SomeFunc(Base* pvalue)

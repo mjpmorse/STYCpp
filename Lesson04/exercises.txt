@@ -1,0 +1,17 @@
+(1)
+
+emun chessmen {rook,knight,bishop,queen,king,pawn,nothing};
+
+chessmen chessboard [8][8];
+chessboard[0][:] = 
+
+
+(2)
+
+The bug in this code is that the last element in the array is at index 4, not index 5.
+
+(3)
+
+The bug in this code is that the array MyNumbers was never initialised so the element at position 3 has no meaning.
+
+

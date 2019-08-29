@@ -1,0 +1,11 @@
+(1) The exercise can be found in ./src
+
+(2) The exercise can be found in ./src
+
+(3) The Bug in this code is that void Area(__) should be void Area(_, double &Result){}. Result is being passed by reference so it needs the amperstand.
+
+(4) The bug in this function declaration is that function parameters which have a default value should all be placed at the end of the parameter list. The function:
+  double Area(double Pi = 3.1415, double radius);,
+has the paremeter with a default value at the begining of the parameter list.
+
+(5) The exercise can be found in ./src

@@ -1,0 +1,8 @@
+(1) Class should not be capital, there should be a ; after the last }
+
+(2) Since Age is not set to private it be accessed by Human.Age
+(X) attributes in classes are private be default so there would be no accessing it.
+
+(3) This exercise can be found in src.
+
+(4) This exercise can be found in src.
