@@ -1,0 +1,5 @@
+(1) This exercises can be found in src
+
+(2) The destructor of Vehicle should be a virtual destructor to insure that if a car is passed by pointer or reference as a vehicle and the destructor is called, that the car is destroyed as a car, not just as a vehicle.
+
+(3) The order of the constructor/destructor would be: Vehicle Constructor, Car Constructor, Vehicle Destructor. NO CAR DESTRUCTOR 
