@@ -1,0 +1,8 @@
+(1) To model shapes and make sure every shape has a compulsory implementation of Area() and Print() I would define an ABC shapes which has Area() and Print() as pure virtual functions.
+
+(2) The compiler constructs VFT only for classes in which there are virtual functions.
+
+(3) Yes, one pure virtual function is enough to make a class an ABC.
+
+
+

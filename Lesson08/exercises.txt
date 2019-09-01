@@ -1,0 +1,11 @@
+(1) The output to this code is: 40;
+
+(2) The first function takes static integers and returns a static integer. The second functin takes in two alias of the static inegers, does not clone them, and returns a static integer. The final function takes two pointers and returns a static integer.
+
+(3) int* const pNum1 = &Number;
+
+(4) The 2nd line in main should read: *pNumber=9.
+
+(5) the corrections are int* pNumber = new int. and only one delete is needed. 
+
+(6) The output of this would be 30.
