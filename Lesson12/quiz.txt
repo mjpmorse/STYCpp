@@ -1,0 +1,9 @@
+(1)  Yes, the subscript operator can be overloaded to return both const and non-constant types. I guess tequenically this is not overloading as overloading returns the same type.
+(X) No, C++ does not allow two methods of the same name with different return types. What can be done is one can be defined as a constant function.
+ Type& operator[] (int Index) const, while one can be defined as a nonconstant funcion.
+
+(2) Declaring the copy constructor and copy assigment as private will result in the object not being allowed to be copied. The compiler will throw an error if copy is attempted when copy constructors and assigments are private.
+
+(3)  I see no reason to supply a move constructor or operator to the class Date. Perhaps if the data class was expanded to allow for adding multiple dates together it would be of use.
+(X) There are no dynamically allocated resources in the Date class so there would be no need for a move constructor!
+
