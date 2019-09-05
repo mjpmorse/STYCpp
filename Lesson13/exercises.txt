@@ -1,0 +1,8 @@
+(1) The bug in this codde is; dynamic_cast will only return a memory address if the down casting is to the correct type. Here the base class is being down casted and a member function is being preformed without checking if the memory address is valid. an if(pDerived) statement should be added. Or if the action being preformed is a pure virtual function, use static_cast, with extreme causion. 
+
+(2) 
+
+Fish* p_fish = new Tuna;
+Tuna* p_tuna = static_cast<Tuna*>(p_fish)
+
+//We can use static cast here because we know for sure that the fish being cast is a tuna. If we did not, we would use dynamic_cast.  

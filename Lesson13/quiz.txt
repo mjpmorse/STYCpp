@@ -1,0 +1,7 @@
+(1)  dynamic_cast<Derived1*>(pBase) would return null of p_base was not of type derived1. Similiar for derived2.
+
+(2) NO, I have access to the source code if I wrote it. The provate member function probably should have been made const to begin with therefore I will edit the source code.
+
+(3) True, reinterpret_cast can be very unsafe so it should only be used as a last resort.
+
+(4) Yes, a good c++ compiler could do many static_cast conversions on simple classes automatically.
