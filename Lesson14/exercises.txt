@@ -1,0 +1,21 @@
+(1) Write a macro that multiplies two numbers:
+      #define MULT(X1,X2)  ((X1)*(X2))
+
+(2) Write a template version of the macro in exercise 1:
+      template<typename Type>
+      Type& Mult(const Type& num1, const Type& num2){
+        return num1*num2
+      }
+
+(3)  Implement a template function for swap which exchanges two numbers.
+     template <typename type>
+     void swap(type& num1 type& num2){
+        type num1temp = num1
+        num1 = num2
+        num2 = num1temp
+     } 
+
+(4) The macto that computes the quarter of a value can be improved by:
+    #define QUARTER(x) = ((x)/4)
+
+(5) This exercise is found in src

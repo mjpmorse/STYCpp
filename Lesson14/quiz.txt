@@ -1,0 +1,7 @@
+(1)  An inclusion gaurd is using #ifndef in header files to makes sure that the compiler does not include the header multiple times.
+
+(2) This macro would return 4 for a call SPLIT(20).
+
+(3) This macro would return 12 for a call SPLIT(10+10)
+
+(4) To fix the split macro in the above questions it should be written as #define SPLIT(X) ((X)/5), or better yet a template should be used.
