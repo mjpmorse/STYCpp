@@ -1,0 +1,13 @@
+(1) If I needed a container which contains an array of ojects such taht insertion is possible at the bottom and the top I would use a deque container.
+
+(2) If I need to store elements for a quick lookup, the optimal choice would be set or unordered_set depending on how long the list is. Set has search times which is logarithmic in length, while unordered_set has a search time which is roughly constant.
+
+(3) No, if you need to store and access data by a value which is not necessarily the value of the data it would be best to use std:map or std::unordered_map.
+(X) 
+
+(4) Iterators link std algorithms to std containers.
+
+(5) No, as of C++11 hash_set is not a standard implimentation, it would be ues to use unordered_set,map.
+
+
+
