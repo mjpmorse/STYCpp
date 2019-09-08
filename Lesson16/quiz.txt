@@ -1,0 +1,5 @@
+(1) The Std::string is a template specalization of std::basic_string.
+
+(2) In order to preform a case-insensitve of two string, It would be best to copy both strings in order to preserve the original form. Then preform the transform funciton on them,      converting them both into either upper or lower case. Compare these as they will be case insenstitive. 
+
+(3) The std::string and c-style strings are not so similar. While c-sytle string pointers can be used, they do not have the build in functionality of a std::string. it is best to use std::strings over c-style  
