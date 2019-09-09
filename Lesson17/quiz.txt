@@ -1,0 +1,13 @@
+(1) No, elements inserted to the end of a vector is done in constant time. Elements inserted at the beginnning or middle is linear in time.
+
+(2) If the vector size is 10, and the allocation size is 20, 10 more elements can be inserted before needing to allocate more memory.
+
+(3) the pop_back function removes the last element from a vector or deque.
+
+(4) a vector <CMammal> is a dynamic vector of the CMammal class.
+
+(5) Elements in a vector can be accessed using [], or the .at() function, or by an iterator.
+
+(6) vector <Class>::iterator iterator can be used to randomly access an element of a vector.
+(X) random access iterator
+
