@@ -1,0 +1,8 @@
+(1)  No, for list inserting at the beginning or middle or end is constant in time. This is different from a vector where inserting from the beginning is constant in time but middle is linear in time.
+
+(2)  No, iterators over lists do not go invalid when elements are inserted or removed.
+
+(3) The constents of a list can be cleared by calling the function .clear()
+
+(4) Yes multiple elements can be inserted into a list in a few aways since list has an over loaded constructor.
+
