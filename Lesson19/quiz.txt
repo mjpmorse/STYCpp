@@ -1,0 +1,5 @@
+(1) If I declare a set of integers as set <int>, the sort criteria will be set by the default search criteria which is: less <int>.
+
+(2) Duplicate elements would be next to each other in a multi-set as multi-sets are ordered.
+
+(3) the function set::size() supplies the number of elements in the container. 
