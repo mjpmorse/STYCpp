@@ -1,7 +1,7 @@
-//Chapter 18 Exercise 1.
+//Chapter 19 Exercise 1.
 /*
-Write a short program that accepts numbers from the user and inserts them into
-the top of a list
+Extend the telephone directory examole in this lesson to find a person's
+name given a phone number, wouth changin gthe structure of ContactItem
 */
 // Michael J. P. Morse
 
@@ -10,67 +10,85 @@ Plan is to take an input string, make it uppercase,
 copy it, reverse the copy, compare.
 */
 #include <iostream>
-#include <list>
-#include <vector>
-#include <algorithm>
-
-using std::cout;
-using std::cin;
-using std::endl;
-using std::string;
-using std::vector;
-using std::list;
+#include <set>
+#include <string>
+using namespace std;
 
 template <typename T>
-void query_value(const T& vec_input)
+void DisplayContacts (const T& input)
 {
-  int index = 0;
-  cout << "what index do you want to query?" << endl;
-  cin >> index;
-  cout << endl;
-  cout << "The value stored at position " << index << " is ";
-  auto i_element = vec_input.cbegin();
-  advance(i_element,index-1);
-  cout << *i_element << endl;
+  for(auto i_element = input.cbegin()
+      ; i_element != input.cend()
+      ;  ++ i_element)
+      {
+        cout << *i_element << endl;
+      }
+      cout << endl;
 }
 
-template <typename T>
-void add_value(T& vec_input)
+struct ContactItem
 {
-  int user_int = 0;
-  cout << "Please enter the integer to add " << endl;
-  cin >> user_int;
-  vec_input.push_front(user_int);
-}
+  string str_contacts_name;
+  string str_phone_number;
+  string str_display_representation;
 
+  // Constructor and destructor
 
+  ContactItem(const string &str_name, const string &str_number)
+  {
+    str_contacts_name = str_name;
+    str_phone_number = str_number;
+    str_display_representation = (str_contacts_name +": "+ str_phone_number);
+  }
 
+  //used by set::find
+  bool operator == (const ContactItem &item_to_compare) const
+  {
+    return (this->str_contacts_name == item_to_compare.str_contacts_name);
+  }
+
+  //used by sort predicate
+
+  bool operator < (const ContactItem & item_to_compare) const
+  {
+    return(this->str_contacts_name<item_to_compare.str_contacts_name);
+  }
+
+  //Used in DisplayContent via count
+  operator const char*() const
+  {
+    return str_display_representation.c_str();
+  }
+
+};
+
+struct sort_by_number
+{
+  bool operator()(const ContactItem &lhs, const ContactItem &rhs) const
+  {
+    return(lhs.str_phone_number > rhs.str_phone_number);
+  }
+
+};
 
 int main(int argc, char const *argv[]) {
-  list<int> int_vector;
-  int input_int = 0;
-  bool more_ints = 1;
-  char user_choice = 'q';
-  add_value(int_vector);
 
-  while(more_ints)
-  {
-    cout << "would you like to add another integer (a),query (b), or quit(q)?";
-    cin >> user_choice;
-    switch (user_choice) {
-      case 'a':
-        add_value(int_vector);
-        break;
-      case 'b':
-        query_value(int_vector);
-        break;
-      case 'q':
-        more_ints = false;
-        break;
-      default:
-       cout << "your input was not understood, please try again"<<endl;
-    }
-  }
+  set<ContactItem,sort_by_number > set_contacts;
+  set_contacts.insert(ContactItem("Jack Welsch", "+1 7889 879 879"));
+  set_contacts.insert(ContactItem("Bill Gates", "+1 97 7797 8799 8 "));
+  set_contacts.insert(ContactItem("Angela Merkel", "+49 23456 5466"));
+  set_contacts.insert(ContactItem("Vladimir Putin", "+7 6645 4564 797"));
+  set_contacts.insert(ContactItem("Manmohan Singh", "+91 234 4564 789"));
+  set_contacts.insert(ContactItem("Barack Obama", "+1 745 641 314"));
+  DisplayContacts(set_contacts);
+
+
+  cout << endl << endl;
+
+  
+
+
+
 
   return 0;
 }
