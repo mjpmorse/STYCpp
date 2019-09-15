@@ -1,0 +1,8 @@
+(1) If I declare a map of ints as map <int> the default sort criteria is std::less.
+
+(2) Dulpicate items in a multimap would be found next to each other based on the sorting criteria.
+
+(3) the map or multimap functino size() tells you the number of pairs in the container
+
+(4) You would not find duplicate items in a map
+

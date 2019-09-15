@@ -1,0 +1,13 @@
+(1) To write a telephone directory taking the names and numbers of non-unique people I would use a multimap. The definition of the container would be
+
+multimap < string, string > telephone_directory;
+
+(2) strut fPredictor
+{
+   bool operator() (const wordProperty &wordProp1, const wordProperty &wordprop2) const
+   {
+      return wordprop1.strWord > wordprop2.strWord;
+   };
+};
+
+(3) This exercise can be found in src
