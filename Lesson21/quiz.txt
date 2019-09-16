@@ -1,0 +1,6 @@
+(1) A unary function which returns a boolean value is called a predicate.
+
+(2) A function which does not modify data or return a value could be used to display information to a user. An example would be the Display functions we write in this course.
+
+(3) function objects are objects of a class that implement operator().
+
