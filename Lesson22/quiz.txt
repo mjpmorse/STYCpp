@@ -1,0 +1,6 @@
+(1) The compiler recognizes a lambda function based on the [] infront of it.
+
+(2) You can pass a state variable to a lambda function by [&state_var_1, const state_avr_2, state_var_3]
+
+(3) To specify a return type []()->return_type {}
+

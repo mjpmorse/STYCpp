@@ -1,0 +1,8 @@
+(1)
+Write a lambda binary predicate that would help sort in decending order
+[](const int &int1 , const int &int2) {return (int1 > int2);}
+
+(2) Write a lambda function that, when used in for_each, adds a user-specified value to that in a container such as vector.
+
+[int to_add](int &a){a = a + to_add;}
+
