@@ -1,0 +1,19 @@
+(1) 
+struct No_Case_Compare
+{
+public:
+  bool operator() (const string &in_str1, const string &in_str2 ) const
+  {
+     string str1(in_str1);
+     string str2(in_str2);
+     
+     transform(str1.begin(),str1.end(),str1.begin(),tolower);
+     transform(str2.beign(),str2.end(),str2.begin(),tolower);
+     // cbegin will not work since we want to modify the content
+     return (str1 < str2)
+
+  }
+
+(2) This exercise can be found in src.
+
+(3) I would use std::stable_sort so thta the order in which stars appear is preserved.

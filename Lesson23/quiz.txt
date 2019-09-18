@@ -1,0 +1,10 @@
+(1) To remove elements from a list I owuld use list::remove_if. list::remove_if  will gaurentee that iterators to the elements of the list are not invalidated
+
+(2) When a list is initalized the sorting criteria is provided since a list of a sorted container.
+(X) by default this is std::less<>
+
+(3) The generator function is called on each element in the range of the container provided.
+
+(4) std::transform can take bianary predicates where as for_each can only take unary predicates.
+(X) for_each returns the function object too
+pg(560) "Both versoin s of transform() always assign the result of the specified transformation to a supplied range, unlike for_each, which works on only a single range"
