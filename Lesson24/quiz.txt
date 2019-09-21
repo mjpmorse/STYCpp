@@ -1,0 +1,5 @@
+(1) You can add a binary predictor to the declaration of a priority_queue, to make the greatest value items popped last you could use the greater<T> predictor
+
+(2) if I have a class Coin I need to make sure I have the "<" operator defined in the class so that the priority_queue knows how to sort my coins.
+
+(3) If I have a stack of 6 Coins, I can only access the 6th coin, stacks are last in last out.
