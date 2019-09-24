@@ -1,0 +1,547 @@
+(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.(1) Bug Buster:
+
+In this code pObject has been deallocated when the copy constructor of std::auto_ptr was used to construct pAnotherObject. Therefore line 3 would cause a error at runtime.
+
+(2) This exercise can be found in src.
+
+(3) std::unique has private assigment and copy constructor so the assigment if line 3: copyTuna = myTuna; would return a compiler time error.

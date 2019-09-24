@@ -1,0 +1,7 @@
+(1) I would look in the c++ STL then the Boost.org pointer documentation
+
+(2) A smart pointer could slow down the application significantly if it is used incorrectly. For example deep copying too much.
+
+(3) A reference counted smart pointer keeps the count on the free store.
+
+(4) The linked list mechanism used by reference-linked pointers should be double linked. 

@@ -1,0 +1,5 @@
+(1) No, a bitset has its size set at creation time.
+
+(2) bitset is not classified as a STL container because it can not resize itself.
+
+(3) I would use bitset to hold a number of bits that is fixed and known at compile time.

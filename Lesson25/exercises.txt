@@ -1,0 +1,5 @@
+(1) This exercise can be found in src
+
+(2) bitset <5> my_bits("01011")
+// to toggle simply use
+my_bit.flip()
