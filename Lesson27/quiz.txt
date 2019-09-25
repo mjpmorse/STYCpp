@@ -1,0 +1,7 @@
+(1) If I needed to only write to a file and not read it I would use the ofstream instead of fstream to makesure the file integerity is save.
+
+(2) To get the entire line that is entered, use cin.getline()
+
+(3) If we just needed to write to a file the ios_base::in would be more suitted to the job.
+
+(4) is_open() checks to make sure the file was successfully opened. This is important to make sure things such as file path are correct.
