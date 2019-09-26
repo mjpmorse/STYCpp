@@ -1,0 +1,9 @@
+(1) The bug in this code is that while destructors are technically able to throw, it is a bad idea since a destructor is invoked during an exception as the stack is unwound. This can cause a program to ungracefully exit.
+
+(2) 10**6 integers as pointers takes a lot of memory on the free store, therefore it should be inside a try catch.
+
+(3) I would say this has 2 bugs. 
+
+    I. only the int* pMillionIntegers = new int[1000000] should be inside the try catch, do not want to do lots of logic inside.
+   II. inside the catch one should not allocate another million integers. There may not be enough memory!
+        "Assume data allocated in try is lost and continue with damage control." 

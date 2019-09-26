@@ -1,0 +1,7 @@
+(1) std::exception is the c++ standard library exception class. It is the base class for bas_alloc, bad_cast, ios_base  exceptions.
+
+(2) When allocating new fails, bad_allocation exception is thrown.
+
+(3) NO!, if you allocate 10**6 integers in an exception block you can cause an exception due to memory issues.
+
+(4) If MyException inherits from std:exception catch(expetion &exp) will suffice to catch it.
