@@ -1,0 +1,3 @@
+(1) You should check to make sure it is multi-threaded correctly. It is possible that two of the threads are hung up.
+
+(2) It is possible your reader thread is reading before the writer thread has finished, make sure that the threads are properly synchronized.
